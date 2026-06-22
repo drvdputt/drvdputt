@@ -18,11 +18,7 @@ Main developer of [RADAGAST](https://github.com/drvdputt/RADAGAST), written and 
 
 ### My publications
 
-[Far-ultraviolet Dust Extinction and Molecular Hydrogen in the Diffuse Milky Way Interstellar Medium](https://ui.adsabs.harvard.edu/abs/2023ApJ...944...33V/abstract)
-
-[Evidence of Dust Grain Evolution from Extinction Mapping in the IC 63 Photodissociation Region](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...22V/abstract)
-
-Full list: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5895-8268
+https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5895-8268
 
 <!--
 **drvdputt/drvdputt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
