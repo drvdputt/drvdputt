@@ -6,9 +6,7 @@ Main website [drvdputt.github.io](https://drvdputt.github.io).
 
 ### Projects and codes
 
-Utilities for running the JWST MIRI MRS and NIRSpec IFU pipelines [pdr_reduction](https://github.com/drvdputt/jwst-pdr-reduction)
-
-Member of the data reduction team for [PDRs4All](https://pdrs4all.org/).
+Member of the data reduction team for [PDRs4All](https://pdrs4all.org/), utilities for running the JWST MIRI MRS and NIRSpec IFU pipelines in the [PDRs4All package](https://github.com/drvdputt/jwst-pdr-reduction)
 
 Actively working on [PAHFIT](https://github.com/PAHFIT/pahfit), and developing [PAHFIT-cube](https://github.com/drvdputt/PAHFIT-cube).
 
