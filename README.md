@@ -1,8 +1,6 @@
 ### Who am I?
 
-Hi, I am Dries Van De Putte, currently an astronomer at Western University, Canada. This is my Github profile, and I tend to share most of the code that I use for scientific analysis.
-
-Main website [drvdputt.github.io](https://drvdputt.github.io).
+Hi, I am Dries Van De Putte, currently an astronomer at Western University, Canada. This is my Github profile, where I share some of the code that I use for scientific analysis. More info at the main website: Main website [drvdputt.github.io](https://drvdputt.github.io).
 
 ### Projects and codes
 
